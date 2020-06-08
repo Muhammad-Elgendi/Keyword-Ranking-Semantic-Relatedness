@@ -1,0 +1,81 @@
+Google Assistant - Wikipedia
+For the other virtual assistant from Google, see Google Now.
+
+Google Assistant is an artificial intelligence–powered[1] virtual assistant developed by Google that is primarily available on mobile and smart home devices. Unlike the company's previous virtual assistant, Google Now, the Google Assistant can engage in two-way conversations.
+
+Assistant initially debuted in May 2016 as part of Google's messaging app Allo, and its voice-activated speaker Google Home. After a period of exclusivity on the Pixel and Pixel XL smartphones, it began to be deployed on other Android devices in February 2017, including third-party smartphones and Android Wear (now Wear OS), and was released as a standalone app on the iOS operating system in May 2017. Alongside the announcement of a software development kit in April 2017, the Assistant has been further extended to support a large variety of devices, including cars and third party smart home appliances. The functionality of the Assistant can also be enhanced by third-party developers.
+
+Users primarily interact with the Google Assistant through natural voice, though keyboard input is also supported. In the same nature and manner as Google Now, the Assistant is able to search the Internet, schedule events and alarms, adjust hardware settings on the user's device, and show information from the user's Google account. Google has also announced that the Assistant will be able to identify objects and gather visual information through the device's camera, and support purchasing products and sending money, as well as identifying songs.
+
+At CES 2018, the first Assistant-powered smart displays (smart speakers with video screens) were announced, with the first one being released in July 2018.[2] In 2020, Google Assistant is already available on more than 1 billion devices.[3] Google Assistant is available in more than 90 countries and in over 30 languages,[4] and is used by more than 500 million users monthly.[5]
+
+History[edit]
+Google Assistant was unveiled during Google's developer conference on May 18, 2016, as part of the unveiling of the Google Home smart speaker and new messaging app Allo; Google CEO Sundar Pichai explained that the Assistant was designed to be a conversational and two-way experience, and "an ambient experience that extends across devices".[6] Later that month, Google assigned Google Doodle leader Ryan Germick and hired former Pixar animator Emma Coats to develop "a little more of a personality".[7]
+
+Platform expansion[edit]
+For system-level integration outside of the Allo app and Google Home, the Google Assistant was initially exclusive to the Pixel and Pixel XL smartphones.[8] In February 2017, Google announced that it had begun to enable access to the Assistant on Android smartphones running Android Marshmallow or Nougat, beginning in select English-speaking markets.[9][10] Android tablets did not receive the Assistant as part of this rollout.[11][12] The Assistant is also integrated in Android Wear 2.0,[13] and will be included in future versions of Android TV[14][15] and Android Auto.[16] In October 2017, the Google Pixelbook became the first laptop to include Google Assistant.[17] Google Assistant later came to the Google Pixel Buds.[18] In December 2017, Google announced that the Assistant would be released for phones running Android Lollipop through an update to Google Play Services, as well as tablets running 6.0 Marshmallow and 7.0 Nougat.[19] In February 2019, Google reportedly began testing ads in Google Assistant results.[20]
+
+On May 15, 2017, Android Police reported that the Google Assistant would be coming to the iOS operating system as a separate app.[21] The information was confirmed two days later at Google's developer conference.[22][23]
+
+Smart displays[edit]
+In January 2018 at the Consumer Electronics Show, the first Assistant-powered "smart displays" were released.[24] Smart displays were shown at the event from Lenovo, Sony, JBL and LG.[25] These devices have support for Google Duo video calls, YouTube videos, Google Maps directions, a Google Calendar agenda, viewing of smart camera footage, in addition to services which work with Google Home devices.[2]
+
+These devices are based on Android Things and Google-developed software. Google unveiled its own smart display, Google Home Hub, in October 2018, which utilizes a different system platform.[26]
+
+Developer support[edit]
+In December 2016, Google launched "Actions on Google", a developer platform for the Google Assistant. Actions on Google allows 3rd party developers to build apps for Google Assistant.[27][28] In March 2017, Google added new tools for developing on Actions on Google to support the creation of games for Google Assistant.[29] Originally limited to the Google Home smart speaker, Actions on Google was made available to Android and iOS devices in May 2017,[30][31] at which time Google also introduced an app directory for overview of compatible products and services.[32] To incentivize developers to build Actions, Google announced a competition, in which first place won tickets to Google's 2018 developer conference, $10,000, and a walk-through of Google's campus, while second place and third place received $7,500 and $5,000, respectively, and a Google Home.[33]
+
+In April 2017, a software development kit (SDK) was released, allowing third-party developers to build their own hardware that can run the Google Assistant.[34][35] It has been integrated into Raspberry Pi,[36][37] cars from Audi and Volvo,[38][39] and smart home appliances, including fridges, washers, and ovens, from companies including iRobot, LG, General Electric, and D-Link.[40][41][42] Google updated the SDK in December 2017 to add several features that only the Google Home smart speakers and Google Assistant smartphone apps had previously supported.
+
+The features include:
+
+letting third-party device makers incorporate their own "Actions on Google" commands for their respective products
+incorporating text-based interactions and more languages
+allowing users to set a precise geographic location for the device to enable improved location-specific queries.[43][44]
+On May 2, 2018, Google announced a new program on their blog that focuses on investing in the future of the Google Assistant through early-stage startups. Their focus was to build an environment where developers could build richer experiences for their users. This includes startups that broaden Assistant's features, are building new hardware devices, or simply differentiating in different industries.[45]
+
+Voices[edit]
+Google Assistant launched using the voice of Kiki Baessell for the American female voice, the same actress for the Google Voice voicemail system since 2010.[46]
+
+On October 11, 2019, Google announced that Issa Rae had been added to Google Assistant as an optional voice, which could be enabled by the user by saying "Okay, Google, talk like Issa".[47]
+
+Interaction[edit]
+
+
+The Google Assistant on the Pixel XL phone
+
+Google Assistant, in the nature and manner of Google Now, can search the Internet, schedule events and alarms, adjust hardware settings on the user's device, and show information from the user's Google account. Unlike Google Now, however, the Assistant can engage in a two-way conversation, using Google's natural language processing algorithm.[48] Search results are presented in a card format that users can tap to open the page.[49] In February 2017, Google announced that users of Google Home would be able to shop entirely by voice for products through its Google Express shopping service, with products available from Whole Foods Market, Costco, Walgreens, PetSmart, and Bed Bath & Beyond at launch,[50][51] and other retailers added in the following months as new partnerships were formed.[52][53] Google Assistant can maintain a shopping list; this was previously done within the notetaking service Google Keep, but the feature was moved to Google Express and the Google Home app in April 2017, resulting in a severe loss of functionality.[54][55]
+
+In May 2017, Google announced that the Assistant would support a keyboard for typed input and visual responses,[56][57] support identifying objects and gather visual information through the device's camera,[58][59] and support purchasing products[60][61] and sending money.[62][63] Through the use of the keyboard, users can see a history of queries made to the Google Assistant, and edit or delete previous inputs. The Assistant warns against deleting, however, due to its use of previous inputs to generate better answers in the future.[64] In November 2017, it became possible to identify songs currently playing by asking the Assistant.[65][66]
+
+The Google Assistant allows users to activate and modify vocal shortcut commands in order to perform actions on their device (both Android and iPad/iPhone) or configuring it as a hub for home automation.
+
+This feature of the speech recognition is available in English, among other languages.[67][68] In July 2018, the Google Home version of Assistant gained support for multiple actions triggered by a single vocal shortcut command.[69]
+
+At the annual I/O developers conference on May 8, 2018, Google's SEO announced the addition of six new voice options for the Google Assistant, one of which being John Legend's.[70] This was made possible by WaveNet, a voice synthesizer developed by DeepMind, which significantly reduced the amount of audio samples that a voice actor was required to produce for creating a voice model.[71] However, John Legend's Google Assistant cameo voice will be discontinued on March 23, 2020.[72][73]
+
+In August 2018, Google added bilingual capabilities to the Google Assistant for existing supported languages on devices. Recent reports say that it may support multilingual support by setting a third default language on Android Phone.[74]
+
+As a default option, the Google Assistant doesn't support two common features of the speech recognition on the transcribed texts, like punctuation and spelling. However, a Beta feature of Speech-to-text enables only English (United States) language users to ask "to detect and insert punctuation in transcription results". Speech-to-Text can recognize commas, question marks, and periods in transcription requests.[75]
+
+In April 2019, the most popular audio games in the Assistant; Crystal Ball and Lucky Trivia have had the biggest voice changes in the application's history. The voice in the assistant has been able to add expression to the games. For instance, in the Crystal Ball game the voice would speak slow and soft during the intro and before the answer is revealed to make the game more excitable and in the Lucky Trivia game the voice would become excitable like a game show host. In the British accent voice of Crystal Ball, the voice would say the word 'probably' in a downwards slide like she's not too sure. The games used the text to speech voice which makes the voice more robotic. In May 2019 however, it turned out to be a bug in the speech API that caused the games to lose the studio quality voices. These audio games were fixed on May 20th 2019.
+
+On December 12, 2019, Google rolled out its interpreter mode for iOS and Android Google Assistant smartphone apps. Interpreter mode allows Google Assistant to translate conversations in real time and was previously only available on Google Home smart speakers and displays.[76] Google Assistant won the 2020 Webby Award for Travel in the category Apps, Mobile & Voice.[77] Google Assistant won the 2020 Webby Award for Best User Experience in the category Apps, Mobile & Voice.[77]
+
+On March 5, 2020, Google rolled out its article-reading feature on Google Assistant that read webpages aloud in 42 different languages.[78][79]
+
+Google Duplex[edit]
+This section is about Duplex for Google Assistant. For the number, see googolplex.
+
+In May 2018, Google revealed Duplex, an extension of the Google Assistant that allows it to carry out natural conversations by mimicking human voice, in a manner not dissimilar to robocalling.[80] The assistant can autonomously complete tasks such as calling a hair salon to book an appointment, scheduling a restaurant reservation, or calling businesses to verify holiday store hours.[81] While Duplex can complete most of its tasks fully autonomously, it is able to recognize situations that it is unable to complete and can signal a human operator to finish the task. Duplex was created to speak in a more natural voice and language by incorporating speech disfluencies such as filler words like "hmm" and "uh" and using common phrases such as "mhm" and "gotcha", along with more human-like intonation and response latency.[82][83][84] Duplex is currently in development and have a limited release in late 2018 with Google Pixel users.[85] During the limited release, Pixel phone users in Atlanta, New York, Phoenix, and San Francisco were only able to use Duplex to make restaurant reservations.[86]
+
+Criticism[edit]
+After the announcement, concerns were made over the ethical and societal questions that artificial intelligence technology such as Duplex raises.[87] For instance, human operators may not notice that they are speaking with a digital robot when conversing with Duplex,[88] which some critics view as unethical or deceitful.[89] Concerns over privacy were also identified, as conversations with Duplex are recorded in order for the virtual assistant to analyze and respond.[90] Privacy advocates have also raised concerns of how the millions of vocal samples gathered from consumers are fed back into the algorithms of virtual assistants, making these forms of AI smarter with each use. Though these features individualize the user experience, critics are unsure about the long term implications of giving "the company unprecedented access to human patterns and preferences that are crucial to the next phase of artificial intelligence".[91]
+
+While transparency was referred to as a key part to the experience when the technology was revealed,[92] Google later further clarified in a statement saying, "We are designing this feature with disclosure built-in, and we'll make sure the system is appropriately identified."[93][89] Google further added that, in certain jurisdictions, the assistant would inform those on the other end of the phone that the call is being recorded.[94]
+
+Reception[edit]
+PC World's Mark Hachman gave a favorable review of the Google Assistant, saying that it was a "step up on Cortana and Siri."[95] Digital Trends called it "smarter than Google Now ever was".[96]
+
+Criticism[edit]
+In July 2019 Belgian public broadcaster VRT NWS published an article revealing that third party contractors paid to transcribe audio clips collected by Google Assistant listened to sensitive information about users. Sensitive data collected from Google Home devices and Android phones included names, addresses, and other private conversations such as business calls or bedroom conversations.[97] From more than 1000 recordings analysed, 153 were recorded without 'Okay Google' command. Google officially acknowledged that 0.2% of recordings are being listened to by language experts to improve Google's services.[98] On August 1, 2019, Germany's Hamburg Commissioner for Data Protection and Freedom of Information has initiated an administrative procedure to prohibit Google from carrying out corresponding evaluations by employees or third parties for the period of three months to provisionally protect the rights of privacy of data subjects for the time being, citing GDPR.[99] A Google spokesperson stated that Google paused “language reviews” in all European countries while it investigated recent media leaks.[100]
